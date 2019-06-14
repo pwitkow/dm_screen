@@ -1,0 +1,4 @@
+Item,Price,Dmg,Dice,
+Dagger,15,1,4,"{""Damage"":'1d4'}"
+Handaxe,10,1,6,"{""Damage"":'1d6'}"
+Light hammer,12,1,4,"{""Damage"":'1d4'}"

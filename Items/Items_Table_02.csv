@@ -1,0 +1,486 @@
+Item,Price,Stats,Type,Weight,Special
+Leather Jacket,30,"{'AC':1 ,""Dex"":99}",Armor,8 lb.,N/A
+Hockey Pads,40,"{'AC':2 ,""Dex"":99}",Armor,10 lb.,N/A
+Light Undercover Shirt,45,"{'AC':2, ""Dex"":99}",Armor,13 lb.,N/A
+Hide,10,"{'AC':2, ""Dex"":2}",Armor,12 lb.,N/A
+Kevlar Vest,500,"{'AC':3, ""Dex"":4}",Armor,20 lb.,N/A
+Kevlar Armor,1500,"{'AC':4, ""Dex"":4}",Armor,45 lb.,N/A
+Shield,10,"{'AC':2, ""Dex"":0}",Armor,6 lb.,N/A
+Dagger,15,"{""Damage"":'1d4'}",Weapon,2 lb.,N/A
+Handaxe,10,"{""Damage"":'1d6'}",Weapon,1 lb.,N/A
+Light hammer,12,"{""Damage"":'1d4'}",Weapon,3 lb.,N/A
+Beretta 92F,100,"{""Damage"":'2d8'}",Weapon,2 lb.,N/A
+Beretta M3P,650,"{""Damage"":'2d8'}",Weapon,2 lb.,N/A
+Browning BPS 10-gauge,700,"{""Damage"":'2d10'}",Weapon,2 lb.,N/A
+Compound Bow,150,"{""Damage"":'2d8'}",Weapon,4 lb.,N/A
+Derringer .45,500,"{""Damage"":'2d6'}",Weapon,4 lb.,N/A
+Mossberg,350,"{""Damage"":'2d8'}",Weapon,2 lb.,N/A
+S&W M29,850,"{""Damage"":'2d8'}",Weapon,2 lb.,N/A
+Sawed-off,575,"{""Damage"":'2d8'}",Weapon,5 lb.,N/A
+AK-47 7.62x39mm,575,"{""Damage"":'2d8'}",Weapon,8 lb.,N/A
+M16 5.56 Assult Rifle,650,"{""Damage"":'2d8'}",Weapon,2 lb.,N/A
+TEC-9,475,"{""Damage"":'10d6'}",Weapon,0 lb.,N/A
+M72A3,575,"{""Damage"":'2d6'}",Weapon,4 lb.,N/A
+Gloc.,500,"{""Damage"":'2d6'}",Weapon,1 lb.,N/A
+Baton,25,"{""Damage"":'1d6'}",Weapon,2 lb,N/A
+Net,1,"{""Damage"":'1d4'}",Weapon,3 lb.,N/A
+Abacus,2,"{""NA"":""NA""}",Adventuring Gear,2 lb.,N/A
+Acid (vial),25,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Arrows (20),1,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Blowgun needles (50),1,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Crossbow bolts (20),1,"{""NA"":""NA""}",Adventuring Gear,1.5 lb.,N/A
+Sling bullets (20),0.04,"{""NA"":""NA""}",Adventuring Gear,1.5 lb.,N/A
+Antitoxin (vial),50,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Backpack,2,"{""NA"":""NA""}",Adventuring Gear,5 lb.,N/A
+"Ball bearings (bag o f 1,000)",1,"{""NA"":""NA""}",Adventuring Gear,2 lb.,N/A
+Barrel,2,"{""NA"":""NA""}",Adventuring Gear,70 lb.,N/A
+Basket,0.4,"{""NA"":""NA""}",Adventuring Gear,2 lb.,N/A
+Bedroll,1,"{""NA"":""NA""}",Adventuring Gear,7 lb.,N/A
+Bell,1,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Blanket,0.5,"{""NA"":""NA""}",Adventuring Gear,3 lb.,N/A
+Block and tackle,1,"{""NA"":""NA""}",Adventuring Gear,5 lb.,N/A
+Book,25,"{""NA"":""NA""}",Adventuring Gear,5 lb.,N/A
+"Bottle, glass",2,"{""NA"":""NA""}",Adventuring Gear,2 lb.,N/A
+Bucket,0.05,"{""NA"":""NA""}",Adventuring Gear,2 lb.,N/A
+Caltrops (bag of 20),1,"{""NA"":""NA""}",Adventuring Gear,2 lb.,N/A
+Candle,0.01,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+"Case, crossbow bolt",1,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+"Case, map or scroll",1,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Chain (10 feet),5,"{""NA"":""NA""}",Adventuring Gear,10 lb.,N/A
+Chalk (1 piece),0.01,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Chest,5,"{""NA"":""NA""}",Adventuring Gear,25 lb.,N/A
+Climbers kit,25,"{""NA"":""NA""}",Adventuring Gear,12 lb.,N/A
+"Clothes, common",0.5,"{""NA"":""NA""}",Adventuring Gear,3 lb.,N/A
+"Clothes, costume",5,"{""NA"":""NA""}",Adventuring Gear,4 lb.,N/A
+"Clothes, fine",15,"{""NA"":""NA""}",Adventuring Gear,6 lb.,N/A
+"Clothes, travelers",2,"{""NA"":""NA""}",Adventuring Gear,4 lb.,N/A
+Component pouch,25,"{""NA"":""NA""}",Adventuring Gear,2 lb.,N/A
+Crowbar,2,"{""NA"":""NA""}",Adventuring Gear,5 lb.,N/A
+Fishing tackle,1,"{""NA"":""NA""}",Adventuring Gear,4 lb.,N/A
+Flask or tankard,0.02,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Grappling hook,2,"{""NA"":""NA""}",Adventuring Gear,4 lb.,N/A
+Hammer,1,"{""NA"":""NA""}",Adventuring Gear,3 lb.,N/A
+"Hammer, sledge",2,"{""NA"":""NA""}",Adventuring Gear,10 lb.,N/A
+Healers kit,5,"{""NA"":""NA""}",Adventuring Gear,3 lb.,N/A
+Holy symbol: Amulet,5,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Hourglass,25,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Hunting trap,5,"{""NA"":""NA""}",Adventuring Gear,25 lb.,N/A
+Ink (1 ounce bottle),10,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Ink pen,0.02,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Jug or pitcher,0.02,"{""NA"":""NA""}",Adventuring Gear,4 lb.,N/A
+Ladder (10-foot),0.1,"{""NA"":""NA""}",Adventuring Gear,25 lb.,N/A
+Lamp,0.5,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+"Lantern, bullseye",10,"{""NA"":""NA""}",Adventuring Gear,2 lb.,N/A
+"Lantern, hooded",5,"{""NA"":""NA""}",Adventuring Gear,2 lb.,N/A
+Lock,10,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Magnifying glass,100,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Manacles,2,"{""NA"":""NA""}",Adventuring Gear,6 lb.,N/A
+Mess kit,0.2,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+"Mirror, steel",5,"{""NA"":""NA""}",Adventuring Gear,0.5 lb.,N/A
+Oil (flask),0.1,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Paper (one sheet),0.2,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Parchment (one sheet),0.1,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Perfume (vial),5,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+"Pick, miners",2,"{""NA"":""NA""}",Adventuring Gear,10 lb.,N/A
+Piton,0.05,"{""NA"":""NA""}",Adventuring Gear,0.25 lb.,N/A
+"Poison, basic (vial)",100,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Pole (10-foot),0.05,"{""NA"":""NA""}",Adventuring Gear,7 lb.,N/A
+"Pot, iron",2,"{""NA"":""NA""}",Adventuring Gear,10 lb.,N/A
+Potion of healing,50,"{""NA"":""NA""}",Adventuring Gear,0.5 lb.,N/A
+Pouch,0.5,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Quiver,1,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+"Ram, portable",4,"{""NA"":""NA""}",Adventuring Gear,35 lb.,N/A
+Rations (1 day),0.5,"{""NA"":""NA""}",Adventuring Gear,2 lb.,N/A
+Robes,1,"{""NA"":""NA""}",Adventuring Gear,4 lb.,N/A
+"Rope, hempen (50 feet)",1,"{""NA"":""NA""}",Adventuring Gear,10 lb.,N/A
+"Rope, silk (50 feet)",10,"{""NA"":""NA""}",Adventuring Gear,5 lb.,N/A
+Sack,0.01,"{""NA"":""NA""}",Adventuring Gear,0.5 lb.,N/A
+"Scale, merchants",5,"{""NA"":""NA""}",Adventuring Gear,3 lb.,N/A
+Sealing wax,0.5,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Shovel,2,"{""NA"":""NA""}",Adventuring Gear,5 lb.,N/A
+Signal whistle,0.05,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Signet ring,5,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Soap,0.02,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Spellbook,50,"{""NA"":""NA""}",Adventuring Gear,3 lb.,N/A
+"Spikes, iron (10)",1,"{""NA"":""NA""}",Adventuring Gear,5 lb.,N/A
+Spyglass,1000,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+"Tent, two-person",2,"{""NA"":""NA""}",Adventuring Gear,2 0 lb.,N/A
+Tinderbox,0.5,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Torch,0.01,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Vial,1,"{""NA"":""NA""}",Adventuring Gear,0 lb.,N/A
+Waterskin,0.2,"{""NA"":""NA""}",Adventuring Gear,5 lb. (full),N/A
+Whetstone,0.01,"{""NA"":""NA""}",Adventuring Gear,1 lb.,N/A
+Alchemists supplies,50,"{""NA"":""NA""}",Tool,8 lb.,N/A
+Brewers supplies,20,"{""NA"":""NA""}",Tool,9 lb.,N/A
+Calligraphers supplies,10,"{""NA"":""NA""}",Tool,5 lb.,N/A
+Carpenters tools,8,"{""NA"":""NA""}",Tool,6 lb.,N/A
+Cartographers tools,15,"{""NA"":""NA""}",Tool,6 lb.,N/A
+Cobblers tools,5,"{""NA"":""NA""}",Tool,5 lb.,N/A
+Cooks utensils,1,"{""NA"":""NA""}",Tool,8 lb.,N/A
+Glassblowers tools,30,"{""NA"":""NA""}",Tool,5 lb.,N/A
+Jewelers tools,25,"{""NA"":""NA""}",Tool,2 lb.,N/A
+Leatherworkers tools,5,"{""NA"":""NA""}",Tool,5 lb.,N/A
+Masons tools,10,"{""NA"":""NA""}",Tool,8 lb.,N/A
+Painters supplies,10,"{""NA"":""NA""}",Tool,5 lb.,N/A
+Potters tools,10,"{""NA"":""NA""}",Tool,3 lb.,N/A
+Smiths tools,20,"{""NA"":""NA""}",Tool,8 lb.,N/A
+Tinkers tools,50,"{""NA"":""NA""}",Tool,10 lb.,N/A
+Weavers tools,1,"{""NA"":""NA""}",Tool,5 lb.,N/A
+Woodcarvers tools,1,"{""NA"":""NA""}",Tool,5 lb.,N/A
+Disguise kit,25,"{""NA"":""NA""}",Taboo,3 lb.,N/A
+Forgery kit,15,"{""NA"":""NA""}",Taboo,5 lb.,N/A
+Dice set,0.1,"{""NA"":""NA""}",Tool,0 lb.,N/A
+Dragonchess set,1,"{""NA"":""NA""}",Tool,0.5 lb.,N/A
+Playing card set,0.5,"{""NA"":""NA""}",Tool,0 lb.,N/A
+Three-Dragon Ante set,1,"{""NA"":""NA""}",Tool,0 lb.,N/A
+Herbalism kit,5,"{""NA"":""NA""}",Tool,3 lb.,N/A
+Bagpipes,30,"{""NA"":""NA""}",Tool,6 lb.,N/A
+Drum,6,"{""NA"":""NA""}",Tool,3 lb.,N/A
+Dulcimer,25,"{""NA"":""NA""}",Tool,10 lb.,N/A
+Flute,2,"{""NA"":""NA""}",Tool,1 lb.,N/A
+Lute,35,"{""NA"":""NA""}",Tool,2 lb.,N/A
+Lyre,30,"{""NA"":""NA""}",Tool,2 lb.,N/A
+Horn,3,"{""NA"":""NA""}",Tool,2 lb.,N/A
+Pan flute,12,"{""NA"":""NA""}",Tool,2 lb.,N/A
+Shawm,2,"{""NA"":""NA""}",Tool,1 lb.,N/A
+Viol,30,"{""NA"":""NA""}",Tool,1 lb.,N/A
+Navigators tools,25,"{""NA"":""NA""}",Tool,2 lb.,N/A
+Poisoners kit,50,"{""NA"":""NA""}",Taboo,2 lb.,N/A
+Thieves tools,25,"{""NA"":""NA""}",Taboo,1 lb.,N/A
+Wheat Bag,0.01,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Flour Bag,0.02,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+1 Chicken,0.02,"{""NA"":""NA""}",Trade Good,5 lb.,N/A
+Bar of Salt,0.05,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Iron Ingot,0.1,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Copper Ingot,0.5,"{""NA"":""NA""}",Trade Good,1 lb. ,N/A
+Cotton Cloth Roll,0.5,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Ginger Bag,1,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+1 Goat,1,"{""NA"":""NA""}",Trade Good,150 lb.,N/A
+Cinnamon Bag,2,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Pepper Bag,2,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+1 Sheep,2,"{""NA"":""NA""}",Trade Good,150 lb.,N/A
+Cloves Bag,3,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+1 Pig,3,"{""NA"":""NA""}",Trade Good,300 lb.,N/A
+Silver Ingot,5,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Linen Cloth Roll,5,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Silk Cloth Roll,10,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+1 Cow,10,"{""NA"":""NA""}",Trade Good,500 lb.,N/A
+Saffron Bag,15,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+1 Ox,15,"{""NA"":""NA""}",Trade Good,"1,000 lb. ",N/A
+Gold Ingot,50,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Platinum Ingot,500,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Bag of Incence,10,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Bag of Pipeweed,1,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Bag of Coffee,35,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Bottle of Oils,15,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Bag of Herbs,5,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Bottle of Olives,5,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Rug,5,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Bag of Spices,15,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Bag of Sugar,10,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+"Ale, Gallon Keg",0.2,"{""NA"":""NA""}",Food,5 lb.,N/A
+"Ale, Bottle",0.04,"{""NA"":""NA""}",Food,1 lb.,N/A
+"Bread, loaf",0.02,"{""NA"":""NA""}",Food,1 lb.,N/A
+"Cheese, hunk",0.1,"{""NA"":""NA""}",Food,1 lb.,N/A
+"Meat, chunk",0.3,"{""NA"":""NA""}",Food,1 lb.,N/A
+"Wine Bottle, Common",0.2,"{""NA"":""NA""}",Food,1 lb.,N/A
+"Wine Bottle, Fine",10,"{""NA"":""NA""}",Food,1 lb.,N/A
+Squalid Meal,0.03,"{""NA"":""NA""}",Food,1 lb.,N/A
+Poor Meal,0.06,"{""NA"":""NA""}",Food,1 lb.,N/A
+Modest Meal,0.3,"{""NA"":""NA""}",Food,1 lb.,N/A
+Comfortable Meal,0.5,"{""NA"":""NA""}",Food,1 lb.,N/A
+Wealthy Meal,0.8,"{""NA"":""NA""}",Food,1 lb.,N/A
+Aristocratic Meal,2,"{""NA"":""NA""}",Food,1 lb.,N/A
+Banquet (per person),10,"{""NA"":""NA""}",Food,1 lb.,N/A
+Squalid (Room),0.7,"{""NA"":""NA""}",Room,"{""NA"":""NA""}",N/A
+Poor (Room),0.1,"{""NA"":""NA""}",Room,"{""NA"":""NA""}",N/A
+Modest (Room),0.5,"{""NA"":""NA""}",Room,"{""NA"":""NA""}",N/A
+Comfortable (Room),0.8,"{""NA"":""NA""}",Room,"{""NA"":""NA""}",N/A
+Wealthy (Room),2,"{""NA"":""NA""}",Room,"{""NA"":""NA""}",N/A
+Aristocratic (Room),4,"{""NA"":""NA""}",Room,"{""NA"":""NA""}",N/A
+Broken Padded Armor,5,"{""NA"":""NA""}",Junk,8 lb.,N/A
+Broken Leather Armor,10,"{""NA"":""NA""}",Junk,10 lb.,N/A
+Broken Studded Leather Armor,45,"{""NA"":""NA""}",Junk,13 lb.,N/A
+Broken Hide Armor,10,"{""NA"":""NA""}",Junk,12 lb.,N/A
+Broken Chain shirt Armor,50,"{""NA"":""NA""}",Junk,20 lb.,N/A
+Broken Scale mail Amor,50,"{""NA"":""NA""}",Junk,45 lb.,N/A
+Broken Breastplate Amor,80,"{""NA"":""NA""}",Junk,20 lb.,N/A
+Broken Half plate Armor,150,"{""NA"":""NA""}",Junk,40 lb.,N/A
+Broken Ring mail Armor,8,"{""NA"":""NA""}",Junk,40 lb.,N/A
+Broken Chain mail Armor,20,"{""NA"":""NA""}",Junk,55 lb.,N/A
+Broken Splint mail Armor,40,"{""NA"":""NA""}",Junk,60 lb.,N/A
+Broken Plate mail Armor,300,"{""NA"":""NA""}",Junk,65 lb.,N/A
+Broken Shield,2,"{""NA"":""NA""}",Junk,6 lb.,N/A
+Broken Club,0.02,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Dagger,0.04,"{""NA"":""NA""}",Junk,1 lb.,N/A
+Broken Greatclub,0.04,"{""NA"":""NA""}",Junk,10 lb.,N/A
+Broken Handaxe,1,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Javelin,0.1,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Light hammer,0.04,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Mace,1,"{""NA"":""NA""}",Junk,4 lb.,N/A
+Broken Quarterstaff,0.03,"{""NA"":""NA""}",Junk,4 lb.,N/A
+Broken Sickle,0.2,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Spear,0.2,"{""NA"":""NA""}",Junk,2 lb.,N/A
+"Broken Crossbow, light",5,"{""NA"":""NA""}",Junk,5 lb.,N/A
+Broken Dart,0.01,"{""NA"":""NA""}",Junk,0.25 lb.,N/A
+Broken Shortbow,5,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Sling,0.02,"{""NA"":""NA""}",Junk,0 lb.,N/A
+Broken Battleaxe,2,"{""NA"":""NA""}",Junk,4 lb.,N/A
+Broken Flail,2,"{""NA"":""NA""}",Junk,2 lb,N/A
+Broken Glaive,4,"{""NA"":""NA""}",Junk,6 lb.,N/A
+Broken Greataxe,5,"{""NA"":""NA""}",Junk,7 lb.,N/A
+Broken Greatsword,10,"{""NA"":""NA""}",Junk,6 lb.,N/A
+Broken Halberd,4,"{""NA"":""NA""}",Junk,6 lb.,N/A
+Broken Lance,2,"{""NA"":""NA""}",Junk,6 lb.,N/A
+Broken Longsword,3,"{""NA"":""NA""}",Junk,3 lb.,N/A
+Broken Maul,2,"{""NA"":""NA""}",Junk,10 lb.,N/A
+Broken Morningstar,3,"{""NA"":""NA""}",Junk,4 lb.,N/A
+Broken Pike,1,"{""NA"":""NA""}",Junk,18 lb.,N/A
+Broken Rapier,5,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Scimitar,5,"{""NA"":""NA""}",Junk,3 lb.,N/A
+Broken Shortsword,2,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Trident,1,"{""NA"":""NA""}",Junk,4 lb.,N/A
+Broken War pick,1,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Warhammer,3,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Whip,0.4,"{""NA"":""NA""}",Junk,3 lb.,N/A
+Broken Blowgun,2,"{""NA"":""NA""}",Junk,1 lb.,N/A
+"Broken Crossbow, hand",15,"{""NA"":""NA""}",Junk,3 lb.,N/A
+"Broken Crossbow, heavy",10,"{""NA"":""NA""}",Junk,18 lb.,N/A
+Broken Longbow,10,"{""NA"":""NA""}",Junk,2 lb.,N/A
+Broken Net,0.2,"{""NA"":""NA""}",Junk,3 lb.,N/A
+Clay Jug,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Cup,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Goblet,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Pot,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Plate,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Platter ,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Bowl,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Kettle,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Ladle,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Tankard,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Flagon,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Clay Candlestick,0.03,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Jug ,0.05,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Cup,0.05,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Goblet,0.05,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Pot,0.05,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Plate ,0.05,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Platter,0.05,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Bowl,0.05,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Kettle,0.03,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Ladle,0.03,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Tankard,0.03,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Flagon,0.03,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Candlestick,0.05,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Knife,0.03,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Pewter Fork,0.03,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Jug,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Cup,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Goblet,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Pot,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Plate,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Platter,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Bowl,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Steel Kettle,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Ladle,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Tankard,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Flagon,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Candlestick,5,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Knife,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Silver Fork,1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Wood Jug,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Wood Cup,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Wood Goblet,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Wood Pot,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Stone Plate,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Stone Platter,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Wood Bowl,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Wooden Kettle,0.03,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Wooden Ladle,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Wood Tankard,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Wood Flagon,0.01,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Wood Candlestick,0.03,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Jug,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Cup,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Goblet,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Pot,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Plate,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Platter,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Bowl,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Kettle,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Ladle,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Tankard,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Flagon,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Candlestick,0.5,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Knife,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Iron Fork,0.1,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Gold Jug,100,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Gold Cup,50,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Gold Goblet,50,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Gold Pot,100,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Gold Plate,50,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Gold Platter,100,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Gold Bowl,100,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Fine Steel Kettle,5,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Fine Steel Ladle,5,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Fine Silver Tankard,5,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Fine Silver Flagon,5,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Gold Candlestick,50,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Fine Silver Knife,5,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Fine Silver Fork,5,"{""NA"":""NA""}",Junk,0.5 lb,N/A
+Cow Hide,0.5,"{""NA"":""NA""}",Junk,3 lb,N/A
+Goat Hide,0.4,"{""NA"":""NA""}",Junk,3 lb,N/A
+Horse Hide,0.4,"{""NA"":""NA""}",Junk,3 lb,N/A
+Deer Hide,0.5,"{""NA"":""NA""}",Junk,3 lb,N/A
+Boar Tusk,0.5,"{""NA"":""NA""}",Junk,3 lb.,N/A
+Goat Horns,0.5,"{""NA"":""NA""}",Junk,3 lb.,N/A
+Bear Pelt,10,"{""NA"":""NA""}",Junk,5 lb.,N/A
+Fox Pelt,10,"{""NA"":""NA""}",Junk,3 lb.,N/A
+Wolf Pelt,5,"{""NA"":""NA""}",Junk,3 lb.,N/A
+Sabre Cat Pelt,20,"{""NA"":""NA""}",Junk,3 lb.,N/A
+Troll Hide,50,"{""NA"":""NA""}",Junk,5 lb.,N/A
+Mammoth Tusk,100,"{""NA"":""NA""}",Junk,20 lb.,N/A
+Azurite,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Banded agate ,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Blue quartz ,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Eye agate ,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Hematite ,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Lapis lazuli,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Malachite,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Moss agate,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Obsidian,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Rhodochrosite,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Tiger eye,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Turquoise,10,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Bloodstone,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Carnelian,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Chalcedony,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Chrysoprase,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Citrine,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Jasper,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Moonstone,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Onyx,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Quartz,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Sardonyx,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Star rose quartz,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Zircon,50,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Amber,100,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Amethyst,100,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Chrysoberyl,100,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Coral,100,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Garnet,100,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Jade,100,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Jet,100,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Pearl,100,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Spinel,100,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Tourmaline,100,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Alexandrite,500,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Aquamarine,500,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Black pearl,500,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Blue spinel,500,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Peridot,500,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Topaz,500,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Black opal,1000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Blue sapphire,1000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Emerald,1000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Fire opal,1000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Opal,1000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Star ruby,1000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Star sapphire,1000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Yellow sapphire,1000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Black sapphire,5000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Diamond,5000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Jacinth,5000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Ruby,5000,"{""NA"":""NA""}",Gemstone,0 lb,N/A
+Silver ewer,25,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Carved bone statuette,25,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Small gold bracelet,25,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Cloth-of-gold vestments,25,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Black velvet mask stitched with silver thread,25,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Copper chalice with silver filigree,25,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Pair of engraved bone dice,25,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Small mirror set in a painted wooden frame,25,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Embroidered silk handkerchief,25,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Gold locket with a painted portrait inside,25,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Gold ring set with bloodstones,250,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Carved ivory statuette,250,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Large gold bracelet,250,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Silver necklace with a gemstone pendant,250,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Bronze crown,250,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Silk robe with gold embroidery,250,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Large well-made tapestry,250,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Brass mug with jade inlay,250,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Box of turquoise animal figurines,250,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Gold bird cage with electrum filigree,250,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Silver chalice set with moonstones,750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Silver-plated steellongsword with jet set in hilt,750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+"Carved harp of exotic wood with ivory inlay and
+zircon gems",750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Small gold idol,750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Gold dragon comb set with red garnets as eyes,750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+"Bottle stopper cork embossed with gold leaf and
+set with amethysts",750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Ceremonial electrum dagger wit~ a black pearl in,750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+the pommel,750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Silver and gold brooch,750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Obsidian statuette with gold fittings and inlay,750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Painted gold war mask,750,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Fine gold chain set with a fire opal,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Old masterpiece painting,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Embroidered silk and velvet mantle set with,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+numerous moonstones,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Platinum bracelet set with a sapphire,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Embroidered glove set with jewel chips,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Jeweled anklet,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Gold music box,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Gold circlet set with four aquamarines,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Eye patch with a mock eye set in blue sapphire and moonstone,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+A necklace string of small pink pearls,2500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Jeweled gold crown,7500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+jeweled platinum ring,7500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Small gold statuette set with rubies,7500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Gold cup set with emeralds,7500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Gold jewelry box with platinum filigree,7500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Painted gold child's sarcophagus,7500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+jade game board with solid gold playing pieces,7500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Bejeweled ivory drinking horn with gold filigree,7500,"{""NA"":""NA""}",Art Object,1 lb,N/A
+Contractor's Field Bag,50,"{""NA"":""NA""}",Trade Good,1 lb.,N/A
+Day Pack,20,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Calligrapher's supplies,10,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Carpenters tools,8,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Cartographers tools,15,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Range Pack (Standard),30,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Cooks utensils,1,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Smart Phone,200,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Computer : Tablet,500,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Leatherworkers tools,5,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Masons tools,10,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Painters supplies,10,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Computer : Desktop,300,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Smiths tools,20,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Tinkers tools,50,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Weavers tools,1,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Woodcarver's tools,1,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Dice set,0.1,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Dragonchess set,1,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Playing card set,0.5,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Drum,6,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Lute,25,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Horn,3,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Navigators tools,25,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Rope,5,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Computer : Notebook,400,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Metal Detector,30,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Bolt Cutters,45,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Duct Tape,5,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Electrical Tool Kit,400,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Zip-Ties,25,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Compas,10,"{""NA"":""NA""}",Trade Good,1 lb,N/A
+Bullets:5.56mm (20),7.5,"{""NA"":""NA""}",Weapons,0 lb,N/A
+Bullets:7.62mm (20),7.5,"{""NA"":""NA""}",Weapons,0 lb,N/A
+Bullets:7.62mmR (20),7.5,"{""NA"":""NA""}",Weapons,0 lb,N/A
+Bullets:.444 Caliber(20),15,"{""NA"":""NA""}",Weapons,0 lb,N/A
+Bullets:.5 Caliber(20),15,"{""NA"":""NA""}",Weapons,0 lb,N/A
+Bullets:9mm(50),10,"{""NA"":""NA""}",Weapons,0 lb,N/A
+Bullets:10-gauge buckshot(10),20,"{""NA"":""NA""}",Weapons,0 lb,N/A
+Bullets:12-guage buckshot(10),20,"{""NA"":""NA""}",Weapons,0 lb,N/A

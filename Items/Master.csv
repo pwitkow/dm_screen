@@ -1,0 +1,114 @@
+Item,Price,Stats,Type,Weight,Special
+Padded,5,"{'AC':1 ,""Dex"":99}",Armor,8 lb.,TBA
+Leather,10,"{'AC':1 ,""Dex"":99}",Armor,10 lb.,TBA
+Studded Leather,45,"{'AC':2, ""Dex"":2}",Armor,13 lb.,TBA
+Hide,10,"{'AC':2, ""Dex"":2}",Armor,12 lb.,TBA
+Chain Shirt,50,"{'AC':3, ""Dex"":2}",Armor,20 lb.,TBA
+Scale Mail,50,"{'AC':4, ""Dex"":2}",Armor,45 lb.,TBA
+Breastplate,400,"{'AC':4, ""Dex"":2}",Armor,6 lb.,TBA
+Half Plate,750,"{'AC':5, ""Dex"":2}",Armor,2 lb.,TBA
+Ring Mail,30,"{'AC':4, ""Dex"":0}",Armor,1 lb.,TBA
+Chain Mail,75,"{'AC':4, ""Dex"":0}",Armor,3 lb.,TBA
+Splint,200,"{'AC':7, ""Dex"":0}",Armor,2 lb.,TBA
+Plate,1500,"{'AC':8, ""Dex"":0}",Armor,2 lb.,TBA
+Shield,10,"{'AC':2, ""Dex"":0}",Armor,2 lb.,TBA
+Gallon of Ale,0.2,"{""NA"":""NA""}",Food,4 lb.,TBA
+Mug of Ale,0.04,"{""NA"":""NA""}",Food,4 lb.,TBA
+Banquet (per person),10,"{""NA"":""NA""}",Food,2 lb.,TBA
+"Bread, loaf",0.02,"{""NA"":""NA""}",Food,2 lb.,TBA
+"Cheese, hunk",0.1,"{""NA"":""NA""}",Food,5 lb.,TBA
+Squalid Meal,0.03,"{""NA"":""NA""}",Food,8 lb.,TBA
+Poor Meal,0.06,"{""NA"":""NA""}",Food,2 lb.,TBA
+Modest Meal,0.3,"{""NA"":""NA""}",Food,0 lb.,TBA
+Comfortable Meal,0.5,"{""NA"":""NA""}",Food,4 lb.,TBA
+Wealthy Meal,0.8,"{""NA"":""NA""}",Food,1 lb.,TBA
+Aristocratic Meal,2,"{""NA"":""NA""}",Food,2 lb,TBA
+"Meat, chunk",0.3,"{""NA"":""NA""}",Food,3 lb.,TBA
+Common (pitcher) of Wine,0.2,"{""NA"":""NA""}",Food,2 lb.,TBA
+Fine (bottle) of Wine,10,"{""NA"":""NA""}",Food,1 lb.,TBA
+Alchemists supplies,50,"{""NA"":""NA""}",Tools,1 lb.,TBA
+Brewers supplies,20,"{""NA"":""NA""}",Tools,1 lb.,TBA
+Calligrapher's supplies,10,"{""NA"":""NA""}",Tools,1.5 lb.,TBA
+Carpenters tools,8,"{""NA"":""NA""}",Tools,1.5 lb.,TBA
+Cartographers tools,15,"{""NA"":""NA""}",Tools,0 lb.,TBA
+Cobblers tools,5,"{""NA"":""NA""}",Tools,5 lb.,TBA
+Cooks utensils,1,"{""NA"":""NA""}",Tools,2 lb.,TBA
+Glassblowers tools,30,"{""NA"":""NA""}",Tools,70 lb.,TBA
+Jewelers tools,25,"{""NA"":""NA""}",Tools,2 lb.,TBA
+Leatherworkers tools,5,"{""NA"":""NA""}",Tools,7 lb.,TBA
+Masons tools,10,"{""NA"":""NA""}",Tools,0 lb.,TBA
+Painters supplies,10,"{""NA"":""NA""}",Tools,3 lb.,TBA
+Potters tools,10,"{""NA"":""NA""}",Tools,5 lb.,TBA
+Smiths tools,20,"{""NA"":""NA""}",Tools,5 lb.,TBA
+Tinkers tools,50,"{""NA"":""NA""}",Tools,2 lb.,TBA
+Weavers tools,1,"{""NA"":""NA""}",Tools,2 lb.,TBA
+Woodcarver's tools,1,"{""NA"":""NA""}",Tools,2 lb.,TBA
+Dice set,0.1,"{""NA"":""NA""}",Misc,0 lb.,TBA
+Dragonchess set,1,"{""NA"":""NA""}",Misc,1 lb.,TBA
+Playing card set,0.5,"{""NA"":""NA""}",Misc,1 lb.,TBA
+Three-Dragon Ante set,1,"{""NA"":""NA""}",Misc,10 lb.,TBA
+Herbalism kit,5,"{""NA"":""NA""}",Misc,0 lb.,TBA
+Bagpipes,20,"{""NA"":""NA""}",Misc,25 lb.,TBA
+Drum,6,"{""NA"":""NA""}",Misc,12 lb.,TBA
+Dulcimer,25,"{""NA"":""NA""}",Misc,3 lb.,TBA
+Flute,2,"{""NA"":""NA""}",Misc,4 lb.,TBA
+Lute,25,"{""NA"":""NA""}",Misc,6 lb.,TBA
+Lyre,20,"{""NA"":""NA""}",Misc,4 lb.,TBA
+Horn,3,"{""NA"":""NA""}",Misc,2 lb.,TBA
+Pan flute,12,"{""NA"":""NA""}",Misc,5 lb.,TBA
+Shawm,2,"{""NA"":""NA""}",Misc,4 lb.,TBA
+Viol,30,"{""NA"":""NA""}",Misc,1 lb.,TBA
+Navigators tools,25,"{""NA"":""NA""}",Misc,4 lb.,TBA
+Rope,0.1,"{""NA"":""NA""}",Misc,3 lb.,TBA
+Squalid (Room),0.7,"{""NA"":""NA""}",Room,10 lb.,TBA
+Poor (Room),0.1,"{""NA"":""NA""}",Room,3 lb.,TBA
+Modest (Room),0.5,"{""NA"":""NA""}",Room,1 lb.,TBA
+Comfortable (Room),0.8,"{""NA"":""NA""}",Room,1 lb.,TBA
+Wealthy (Room),2,"{""NA"":""NA""}",Room,25 lb.,TBA
+Aristocratic (Room),4,"{""NA"":""NA""}",Room,0 lb.,TBA
+Poisoners kit,50,"{""NA"":""NA""}",Taboo,0 lb.,TBA
+Thieves tools,25,"{""NA"":""NA""}",Taboo,4 lb.,TBA
+Disguise kit,25,"{""NA"":""NA""}",Taboo,25 lb.,TBA
+Forgery kit,15,"{""NA"":""NA""}",Taboo,1 lb.,TBA
+Club,0.1,"{""Damage"":'1d4'}",Weapon,2 lb.,TBA
+Dagger,2,"{""Damage"":'1d4'}",Weapon,2 lb.,TBA
+Greatclub,0.2,"{""Damage"":'1d8'}",Weapon,1 lb.,TBA
+Handaxe,5,"{""Damage"":'1d6'}",Weapon,0 lb.,TBA
+Javelin,0.5,"{""Damage"":'1d6'}",Weapon,6 lb.,TBA
+Light hammer,2,"{""Damage"":'1d4'}",Weapon,1 lb.,TBA
+Mace,5,"{""Damage"":'1d6'}",Weapon,0.5 lb.,TBA
+Quarterstaff,0.2,"{""Damage"":'1d6'}",Weapon,1 lb.,TBA
+Sickle,1,"{""Damage"":'1d4'}",Weapon,0 lb.,TBA
+Spear,1,"{""Damage"":'1d6'}",Weapon,0 lb.,TBA
+"Crossbow, light",25,"{""Damage"":'1d8'}",Weapon,0 lb.,TBA
+Dart,0.05,"{""Damage"":'1d4'}",Weapon,10 lb.,TBA
+Shortbow,25,"{""Damage"":'1d6'}",Weapon,0.25 lb.,TBA
+Sling,0.1,"{""Damage"":'1d4'}",Weapon,0 lb.,TBA
+Battleaxe,10,"{""Damage"":'1d8'}",Weapon,7 lb.,TBA
+Flail,10,"{""Damage"":'1d8'}",Weapon,10 lb.,TBA
+Glaive,20,"{""Damage"":'1d10'}",Weapon,0.5 lb.,TBA
+Greataxe,30,"{""Damage"":'1d12'}",Weapon,1 lb.,TBA
+Greatsword,50,"{""Damage"":'1d6'}",Weapon,1 lb.,TBA
+Halberd,20,"{""Damage"":'1d10'}",Weapon,35 lb.,TBA
+Lance,10,"{""Damage"":'1d12'}",Weapon,2 lb.,TBA
+Longsword,15,"{""Damage"":'1d8'}",Weapon,4 lb.,TBA
+Maul,10,"{""Damage"":'1d6'}",Weapon,10 lb.,TBA
+Morningstar,15,"{""Damage"":'1d8'}",Weapon,5 lb.,TBA
+Pike,5,"{""Damage"":'1d10'}",Weapon,0.5 lb.,TBA
+Rapier,25,"{""Damage"":'1d8'}",Weapon,3 lb.,TBA
+Scimitar,25,"{""Damage"":'1d6'}",Weapon,0 lb.,TBA
+Shortsword,10,"{""Damage"":'1d6'}",Weapon,5 lb.,TBA
+Trident,5,"{""Damage"":'1d6'}",Weapon,0 lb.,TBA
+War pick,5,"{""Damage"":'1d8'}",Weapon,0 lb.,TBA
+Warhammer,15,"{""Damage"":'1d8'}",Weapon,0 lb.,TBA
+Whip,2,"{""Damage"":'1d4'}",Weapon,3 lb.,TBA
+Blowgun,10,"{""Damage"":'1d4'}",Weapon,5 lb.,TBA
+"Crossbow, hand",75,"{""Damage"":'1d6'}",Weapon,1 lb.,TBA
+"Crossbow, heavy",50,"{""Damage"":'1d10'}",Weapon,2 0 lb.,TBA
+Longbow,50,"{""Damage"":'1d8'}",Weapon,1 lb.,TBA
+Net,1,"{""Damage"":'1d4'}",Weapon,1 lb.,TBA
+Drum,6,"{""NA"":""NA""}",Trade Good,1 lb.,TBA
+Lute,25,"{""NA"":""NA""}",Trade Good,1 lb.,TBA
+Horn,3,"{""NA"":""NA""}",Trade Good,1 lb.,TBA
+Navigators tools,25,"{""NA"":""NA""}",Trade Good,1 lb.,TBA
+Rope,5,"{""NA"":""NA""}",Trade Good,1 lb.,TBA
